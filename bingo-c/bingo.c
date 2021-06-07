@@ -7,11 +7,10 @@ Terminado em: 24/06/2019
 */
 
 #include<stdio.h>
-#include <windows.h>
-#include<stdlib.h>
-#include<conio.h>
-#include<time.h>
-#include<conio.h>
+#include <windows.h> //biblioteca apenas em IDE Windows
+#include <stdlib.h>
+#include <conio.h> // opcional
+#include <time.h>
 #define TAM 5
 #include "colors.h"
 //funcao para Gerar a Cartela
